@@ -6,9 +6,9 @@ import shutil
 import time
 import os
 
-api_key = "B2FD274279214B0AA4BEE21468CC7BC9"
+api_key = "B2FD274279214B0AB4BEE21368CC7BC1"
 timelapse_source = "/home/pi/.octoprint/timelapse/"
-timelapse_destination = "/mnt/server1/junk/octoprint_timelapse/"
+timelapse_destination = "/mnt/server/octoprint_timelapse/"
 
 sleep_time = 600
 url = "http://octopi/api/job"
